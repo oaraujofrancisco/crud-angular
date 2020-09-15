@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caderno Batman Universitário",
+      "price": 8.99
+    },
+    {
+      "name": "Tinta preta",
+      "price": "10.99",
+      "id": 6
+    },
+    {
+      "name": "Borracha",
+      "price": "2.99",
+      "id": 7
+    },
+    {
+      "name": "Caneta azul",
+      "price": "1.99",
+      "id": 8
+    }
+  ]
+}
